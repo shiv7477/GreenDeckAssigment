@@ -13,8 +13,8 @@ ___
 
 
 ### DOCKER
-    
-
+    `sudo docker build --tag flask-api . `
+    `sudo docker run flask-api:latest `
 
 ## Avalible Endpoints
 - `/products`  - ["GET"]
